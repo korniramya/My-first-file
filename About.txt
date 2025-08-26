@@ -1,0 +1,4 @@
+Name=K.Ramya
+College=Aditya Degree College for women's
+Course=Bsc Computer Science
+About GitHub=Learning about How to create a GitHub account and how to upload a file in GitHub and how to commit the chane of the file.
