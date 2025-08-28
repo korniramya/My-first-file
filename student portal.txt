@@ -1,0 +1,5 @@
+Name=K.Ramya
+College=Aditya Degree College for women's
+Course=Bsc Computer Science
+Email=aditya.ac.in
+phone number=0880 234567
